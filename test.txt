@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fffffffffffffffff
 fffffffffffffffff
 gggggggggg
@@ -7,3 +8,6 @@ vvvvvv
 mmmmmmmm
 nnnnnnnn
 
+=======
+f
+>>>>>>> 7771fb8f3a9a54429fbcfae30766f83e256f920e
