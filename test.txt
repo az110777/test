@@ -1,12 +1,7 @@
 <<<<<<< HEAD
 fffffffffffffffff
 fffffffffffffffff
-gggggggggg
-vvvvvvvvvvvvvvv
-bbbbbbb
-vvvvvv
-mmmmmmmm
-nnnnnnnn
+
 
 =======
 f
@@ -15,3 +10,5 @@ f
 444444444444444444
 555555555555
 555555555555
+
+$$$$$$$$$$$$$$$$$$
