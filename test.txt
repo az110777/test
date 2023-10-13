@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 5555555555555555555555
 9999999999999999
 sssssssssssssssssssssssss
@@ -9,4 +10,7 @@ branchbranchbranchbranchbranchbranchbranchbranch111111111111
 fuck youuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu
 =======
 fuckA11111111111111111111111
+>>>>>>> A1
+=======
+A1
 >>>>>>> A1
